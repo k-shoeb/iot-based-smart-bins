@@ -24,7 +24,7 @@
 
   **Circuit Diagram**
   
-
+    ![circuit v3](https://github.com/user-attachments/assets/ef1a2e44-0c94-4776-8283-ddf32d4b1ac3)
 
 ## Setup
 1. **Hardware Setup**:
