@@ -38,11 +38,11 @@
 
    **Circuit Diagram v1**
    
-
+  ![circuit v1](https://github.com/user-attachments/assets/699305eb-86c4-4673-ba67-028e600da0ae)
 
    **Circuit Diagram v2**
 
-
+  ![circuit v2](https://github.com/user-attachments/assets/3601a88c-f526-4f3e-92cb-aa4a51e4f034)
 
    **Hardware Assembly:**
    - Connect the ultrasonic sensors to the designated pins on the Arduino as per the circuit diagram of the selected version.
